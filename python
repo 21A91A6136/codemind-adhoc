@@ -1,0 +1,6 @@
+to create a count of the values in list use counter counter gives the count of each value
+use dict inorder to remove counter()-name
+from collections import Counter
+a = [1,1,1,2,2,3,3,4]
+a = Counter(a)
+l = dict(a)
